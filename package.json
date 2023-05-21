@@ -11,9 +11,12 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.10.5",
-    "@strapi/plugin-users-permissions": "4.10.5",
+    "@_sh/strapi-plugin-ckeditor": "^2.0.4",
+    "@ckeditor/ckeditor5-markdown-gfm": "^37.1.0",
     "@strapi/plugin-i18n": "4.10.5",
+    "@strapi/plugin-users-permissions": "4.10.5",
+    "@strapi/provider-upload-cloudinary": "^4.10.5",
+    "@strapi/strapi": "4.10.5",
     "pg": "8.8.0"
   },
   "author": {
